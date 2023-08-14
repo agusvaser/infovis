@@ -1,0 +1,3 @@
+brushing-and linking
+Dorling cartogram
+Reingold-Tilford algorithm
